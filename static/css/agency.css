@@ -13,6 +13,12 @@ body {
 .text-primary {
   color: #fed136;
 }
+#justin-face {
+  margin-bottom: 20px;
+  border-radius: 50%;
+  height : 210px;
+  width : 210px;
+}
 
 p {
   font-size: 14px;
@@ -239,7 +245,7 @@ header {
   color: white;
 }
 header .intro-text {
-  padding-top: 100px;
+  padding-top: 70px;
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
@@ -259,8 +265,8 @@ header .intro-text .intro-heading {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 230px;
+    padding-bottom: 340px;
   }
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
