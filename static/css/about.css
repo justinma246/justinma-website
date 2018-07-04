@@ -1,0 +1,23 @@
+div {
+    height: 200px;
+    width: 400px;
+    background: white;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -420px;
+    margin-left: -200px;
+}
+
+br {
+    line-height: 10px;
+}
+
+a {
+    position: absolute;
+    right: 0px;
+    width: 40px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
